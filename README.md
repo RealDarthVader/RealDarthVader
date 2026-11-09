@@ -124,41 +124,12 @@
   </a>
 
 </div>
-name: Generate Contribution Snake
+### 🐍 Contribution Track (Snake Telemetry)
 
-on:
-  schedule:
-    # Run every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate contribution snake animations
-        uses: Platane/snk@v3
-        with:
-          github_user_name: RealDarthVader
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FF1801
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RealDarthVader/RealDarthVader/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RealDarthVader/RealDarthVader/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RealDarthVader/RealDarthVader/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
