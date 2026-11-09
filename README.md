@@ -1,4 +1,30 @@
+<div align="center">
 
+  <!-- F1 RACE BANNER -->
+  <a href="https://github.com/RealDarthVader">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,45:ff1801,100:000000&height=220&section=header&text=UTKARSH%20GUPTA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%26%20BACKEND%20ENGINEER%20%7C%20F1%20TELEMETRY%20CONTROL&descAlignY=62&descAlign=50" alt="Utkarsh Gupta F1 Banner" width="100%" />
+  </a>
+
+  <!-- TYPING TELEMETRY STREAM -->
+  <a href="https://github.com/RealDarthVader">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2400&pause=1000&color=FF1801&center=true&vCenter=true&multiline=false&width=640&height=45&lines=AI%2FML+%26+Backend+Engineer;Full-Stack+F1+Telemetry+Pipelines+(FastF1+%2B+FastAPI);Uncertainty-Calibrated+Risk+Engines+(Conformal+VaR);Strat+Mode%3A+Max+Pace+%2F%2F+High-Throughput+APIs" alt="Telemetry Typing Stream" />
+  </a>
+
+  <br/>
+
+  <!-- PIT WALL STATUS INDICATORS -->
+  <p>
+    <img src="https://img.shields.io/badge/TRACK%20STATUS-GREEN%20FLAG%20🟢-111111?style=flat-square" alt="Track Status" />
+    <img src="https://img.shields.io/badge/DRS-ENABLED%20🟢-111111?style=flat-square" alt="DRS" />
+    <img src="https://img.shields.io/badge/POWER%20UNIT-AI%2FML%20%2B%20BACKEND-FF1801?style=flat-square" alt="Power Unit" />
+    <img src="https://img.shields.io/badge/ENGINE%20MAP-STRAT%201%20(MAX%20PACE)-111111?style=flat-square" alt="Engine Mode" />
+  </p>
+
+</div>
+
+---
+
+### 🏎️ `PIT_WALL_TELEMETRY.raw`
 ---
 
 ### 🏁 Featured Deployments (Active Power Units)
