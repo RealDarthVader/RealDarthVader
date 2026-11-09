@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- F1 RACE BANNER -->
+  <!-- F1 DYNAMIC RACE HEADER -->
   <a href="https://github.com/RealDarthVader">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,45:ff1801,100:000000&height=220&section=header&text=UTKARSH%20GUPTA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%26%20BACKEND%20ENGINEER%20%7C%20F1%20TELEMETRY%20CONTROL&descAlignY=62&descAlign=50" alt="Utkarsh Gupta F1 Banner" width="100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=FF1801&center=true&vCenter=true&width=700&height=70&lines=UTKARSH+GUPTA;AI%2FML+%2B+BACKEND+ENGINEER" alt="F1 Race Header" />
   </a>
 
   <!-- TYPING TELEMETRY STREAM -->
   <a href="https://github.com/RealDarthVader">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2400&pause=1000&color=FF1801&center=true&vCenter=true&multiline=false&width=640&height=45&lines=AI%2FML+%26+Backend+Engineer;Full-Stack+F1+Telemetry+Pipelines+(FastF1+%2B+FastAPI);Uncertainty-Calibrated+Risk+Engines+(Conformal+VaR);Strat+Mode%3A+Max+Pace+%2F%2F+High-Throughput+APIs" alt="Telemetry Typing Stream" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=1000&color=FF1801&center=true&vCenter=true&multiline=false&width=640&height=40&lines=AI%2FML+%2B+Backend+Engineer;F1+Telemetry+Engines+(FastF1+%2B+FastAPI);Uncertainty-Calibrated+Risk+(Conformal+VaR);Strat+Mode%3A+Max+Pace+%2F%2F+High-Throughput" alt="Telemetry Typing Stream" />
   </a>
 
   <br/>
@@ -21,8 +21,6 @@
   </p>
 
 </div>
-
----
 
 ### 🏎️ `PIT_WALL_TELEMETRY.raw`
 ---
